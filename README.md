@@ -14,5 +14,5 @@ currently learning python and building projects of my own, mostly terminal-based
 - Git & GitHub
 
 ### how to reach you?
-- GitHub: [@Meakz](https://github.com/Meakz)
+- GitHub: [@meakzreal](https://github.com/meakzreal)
 - Discord: pmeakz
