@@ -6,6 +6,13 @@ hello, i'm meakz 👋
 
 🐍 currently learning python and building my own projects
 
-🛠️ mostly messing around with scripts, games and random ideas
+currently learning python and building projects of my own, mostly terminal-based programs and some games.
 
-📈 learning as i go, one project at a time
+### what tools do you use?
+- Python
+- VS Code
+- Git & GitHub
+
+### how to reach you?
+- GitHub: [@Meakz](https://github.com/Meakz)
+- Discord: pmeakz
