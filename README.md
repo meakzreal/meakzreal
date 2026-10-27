@@ -1,6 +1,4 @@
-# Meakz
-
-hello, i'm meakz 👋
+# hello, i'm meakz 👋
 
 💻 computer nerd getting into coding
 
