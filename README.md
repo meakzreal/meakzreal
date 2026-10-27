@@ -4,7 +4,7 @@
 
 🐍 currently learning python and building my own projects
 
-currently learning python and building projects of my own, mostly terminal-based programs and some games.
+currently building projects of my own, mostly terminal-based programs and some games.
 
 ### what tools do you use?
 - Python
